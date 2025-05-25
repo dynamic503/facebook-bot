@@ -1,1 +1,6 @@
+Flask==2.3.2
+python-dotenv
+google-auth
+gspread
+oauth2client
 
