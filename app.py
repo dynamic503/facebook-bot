@@ -4,7 +4,7 @@ import requests
 
 app = Flask(__name__)
 
-VERIFY_TOKEN = "your_verify_token"
+VERIFY_TOKEN = "123"
 PAGE_ACCESS_TOKEN = "your_page_access_token"
 
 @app.route('/', methods=['GET'])
